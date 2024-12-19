@@ -1,6 +1,6 @@
 # Frontend and Node.js Backend Project
 
-This project includes a basic frontend setup and a backend using Node.js and Express.
+This project includes a basic MarkDown Application Using frontend React and a backend using Node.js and Express.
 
 ## Prerequisites
 
